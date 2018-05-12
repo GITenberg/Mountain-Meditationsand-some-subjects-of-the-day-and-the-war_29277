@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33811'
     url: http://www.gutenberg.org/2009/agents/33811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29277#Mountain-Meditationsand-some-subjects-of-the-day-and-the-war
 gutenberg_issued: '2009-06-30'
 gutenberg_type: Text
 identifiers:
