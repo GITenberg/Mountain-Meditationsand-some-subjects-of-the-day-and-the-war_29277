@@ -1,0 +1,35 @@
+_repo: Mountain-Meditationsand-some-subjects-of-the-day-and-the-war_29277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lind-af-Hageby, L. (Lizzy)
+    aliases:
+    - Lind-af-Hageby, Louise
+    - Lind-af-Hageby, Emelie Augusta Louise
+    - Lind of Hageby, Lizzy
+    - Lind-af-Hageby, Emilia Augusta Louise
+    - Lind-af-Hageby, Emilie Augusta Louise
+    - Lind-af-Hageby, Lizzy
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '33811'
+    url: http://www.gutenberg.org/2009/agents/33811
+description: ''
+gutenberg_issued: '2009-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'AC'
+tableOfContents: Mountain-tops -- The borderland -- Reformers -- Nationality -- Religion
+  in transition.
+title: Mountain Meditations, and some subjects of the day and the war
+url: http://www.gutenberg.org/ebooks/29277
